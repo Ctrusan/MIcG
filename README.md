@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## ¿Qué es MIcG?
 
-You can use the [editor on GitHub](https://github.com/Ctrusan/MIcG/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Bueno, MiC es un producto creado por la empresa _GELP S.A._ que consiste en un **microgenerador** insertado en la placa base de los ordenadores de sobremesa.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### ¿Cuál es la función de MIcG?
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+MicG tiene una función muy sencilla: si se produce un apagón, al estar hablando de un ordenador de sobremesa, éste se apagaría por completo por perder la corriente de energía, perdiendo todo con lo que se estaba trabajando, ¿verdad? Bien, con MIcG no ocurriría eso; lo que ocurriría, es que el microgenerador empezaría a funcionar, dando un aviso desde el sistema operativo al usuario para que este pueda guardar todo con lo que estaba trabajando y apagar el ordenador de forma correcta y segura, antes de que llegue el momento de que se apague bruscamente.
 
 ```markdown
 Syntax highlighted code block
