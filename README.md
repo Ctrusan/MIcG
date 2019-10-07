@@ -9,6 +9,6 @@ _**MIcG**_ tiene una función muy sencilla: si se produce un apagón, al estar h
 ```markdown
 ### FAQ
 
-1. Hay distintos tipos de ordenadores, ¿en todos funcionaría _**MIcG**_?
+1. Hay distintos tipos de ordenadores, ¿en todos funcionaría _MIcG_?
 
   - Sí, por supuesto. Para solucionar ese problema, hemos creado distintos tamaños de nuestro producto para que este se pueda adaptar a cualquier tipo de ordenador/placa base.
