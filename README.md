@@ -7,7 +7,7 @@ Bueno, _**MicG_** es un producto creado por la empresa _GELP S.A._ que consiste 
 _**MicG_** tiene una función muy sencilla: si se produce un apagón, al estar hablando de un ordenador de sobremesa, éste se apagaría por completo por perder la corriente de energía, perdiendo todo con lo que se estaba trabajando, ¿verdad? Bien, con MIcG no ocurriría eso; lo que ocurriría, es que el microgenerador empezaría a funcionar, dando un aviso desde el sistema operativo al usuario para que este pueda guardar todo con lo que estaba trabajando y apagar el ordenador de forma correcta y segura, antes de que llegue el momento de que se apague bruscamente.
 
 ```markdown
-FAQ
+### FAQ
 
 1. Hay distintos tipos de ordenadores, ¿en todos funcionaría MicG?
 
