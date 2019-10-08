@@ -10,4 +10,8 @@ _**MIcG**_ tiene una función muy sencilla: si se produce un apagón, al estar h
 
 1. Hay distintos tipos de ordenadores, ¿en todos funcionaría _MIcG_?
 
-  - Sí, por supuesto. Para solucionar ese problema, hemos creado distintos tamaños de nuestro producto para que este se pueda adaptar a cualquier tipo de ordenador/placa base.
+  - Sí, por supuesto. Para solucionar ese posible problema, hemos creado distintos tamaños de nuestro producto para que este se pueda adaptar a cualquier tipo de ordenador/placa base.
+
+2. ¿Qué pasará si _MIcG_ no funciona en alguna circustancia y pierdo documentos o mi equipo sale dañado?
+
+  - Creemos que darse esa situación es improbable, pero si ocurre, se compensará a los usuarios por los daños ocasionados.
