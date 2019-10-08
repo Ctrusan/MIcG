@@ -8,14 +8,14 @@ _**MIcG**_ tiene una función muy sencilla: si se produce un apagón, al estar h
 
 ### FAQ
 
-+ Hay distintos tipos de ordenadores, ¿en todos funcionaría _MIcG_?
+- Hay distintos tipos de ordenadores, ¿en todos funcionaría _MIcG_?
 
   - Sí, por supuesto. Para solucionar ese posible problema, hemos creado distintos tamaños de nuestro producto para que este se pueda adaptar a cualquier tipo de ordenador/placa base.
 
-+ ¿Qué pasaría si _MIcG_ no funciona en alguna circustancia y pierdo documentos o mi equipo sale dañado?
+- ¿Qué pasaría si _MIcG_ no funciona en alguna circustancia y pierdo documentos o mi equipo sale dañado?
 
   - Creemos que darse esa situación es improbable, pero si ocurre, se compensará económicamente a los usuarios por los daños ocasionados.
 
-+ ¿Dónde iría incorporada la batería?
+- ¿Dónde iría incorporada la batería?
 
   - La batería iría en la fuente de alimentación, en donde ésta se podrá recargar sin ningún problema.
